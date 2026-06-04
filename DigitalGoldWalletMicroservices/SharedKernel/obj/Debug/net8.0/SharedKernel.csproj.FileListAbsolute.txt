@@ -1,0 +1,12 @@
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\bin\Debug\net8.0\SharedKernel.deps.json
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\bin\Debug\net8.0\SharedKernel.dll
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\bin\Debug\net8.0\SharedKernel.pdb
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfo.cs
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\SharedKernel.sourcelink.json
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\SharedKernel.dll
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
+C:\Personal\Monisha Microservices\Database per service demo\DigitalGoldWalletMicroservices\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll

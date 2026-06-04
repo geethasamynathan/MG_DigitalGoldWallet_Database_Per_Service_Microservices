@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ygIrc5fIfbW1eCO/sp7c2D8kl4dc0frpDU/dvzKgLwTx1OMXC9+7/bN63EyTu+L28qW6/yArc21RkLtIHnow8A==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\Monisha Microservices\\Database per service demo\\DigitalGoldWalletMicroservices\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
